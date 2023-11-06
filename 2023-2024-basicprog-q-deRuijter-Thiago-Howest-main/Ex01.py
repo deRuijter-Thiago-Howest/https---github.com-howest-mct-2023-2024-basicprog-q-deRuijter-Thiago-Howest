@@ -34,6 +34,6 @@ eerste_naam = input("Geef een eerste naam op:> ")
 tweede_naam = input("Geef een tweede naam op:> ")
 # print(f"De match tussen beide personen bedraagt {calculate_love_score(eerste_naam, tweede_naam)}")
 test = calculate_love_score(eerste_naam, tweede_naam)
-print(f"De lovescore is:> {test}")
+print(f"De lovescore is :> {test}")
 
 
